@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "title": "Sambinha",
+      "author": "Alcione",
+      "id": 1
+    },
+    {
+      "title": "Banana",
+      "author": "DO BANANEIRO",
+      "id": 3
+    },
+    {
+      "title": "Sorriso do tio",
+      "author": "Tio do sorriso",
+      "id": 4
+    },
+    {
+      "title": "A pior música do ano",
+      "author": "Rapaz do dread",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
